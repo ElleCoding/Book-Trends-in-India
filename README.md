@@ -1,7 +1,7 @@
 # EDA on Book Trends in India 2024
 
 ## Overview
-This project performs an exploratory data analysis (EDA) on book trends in India for the year 2024. It focuses on uncovering insights into popular genres, authors, pricing trends, and customer ratings. The analysis is done using Python and several data processing and visualization libraries.
+In this project I performed an exploratory data analysis (EDA) on book trends in India for the year 2024. It focuses on uncovering insights into popular genres, authors, pricing trends, and customer ratings. The analysis is done using Python and several data processing and visualization libraries.
 
 ## Table of Contents
 - [Installation](#installation)
